@@ -1,0 +1,7 @@
+# 构建产物、已签名的 app、从设备拷出的日志和崩溃报告（含设备标识，不要提交）
+build/
+*.mobileprovision
+*.ips
+*.log
+.DS_Store
+xcuserdata/
